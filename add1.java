@@ -5,8 +5,8 @@ public class add1{
 		int a= 10;
 		int b=13;
 		float c= a+b;
-		System.out.println("This is addition " +c );
-		
+		System.out.println("This is addition a and b =" +c );
+
 
 }
 
